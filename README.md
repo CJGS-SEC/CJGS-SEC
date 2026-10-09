@@ -1,17 +1,7 @@
-<!-- VISUAL HEADER BRANDING -->
-<p align="center">
-  <img src="https://vercel.app" width="100%" alt="Header Banner" />
-</p>
+# CHANDAN JEDIDIAH GOPAL SWAMY
+### 🌐 Cybersecurity Professional | Aspiring SOC Analyst | ITIL® 4 Certified
 
-<p align="center">
-  <strong>🌐 Cybersecurity Professional | Aspiring SOC Analyst | ITIL® 4 Certified</strong>
-</p>
-
-<p align="center">
-  <a href="mailto:chandanjedidiah@gmail.com"><img src="https://shields.io" alt="Email" /></a>
-  <a href="https://github.io"><img src="https://shields.io" alt="Portfolio" /></a>
-  <img src="https://shields.io" alt="Location" />
-</p>
+**📧 Email:** chandanjedidiah@gmail.com | **💻 Portfolio:** [cjgs-sec.github.io](https://github.io) | **📍 Location:** Sunderland, UK
 
 ---
 
@@ -24,33 +14,25 @@ Having managed Active Directory/Azure identity hygiene, enforced endpoint EDR/An
 
 ### 🔬 Core SOC Competencies & Frameworks
 
-- **🪵 Log Analysis & Telemetry:** Analyzing enterprise protocols (TCP/IP, DNS, DHCP) and triaging network/VPN connectivity anomalies.
-- **🛡️ Endpoint Security & Compliance:** Monitoring endpoint security agent health, auditing anti-malware compliance, and provisioning secure baselines using Microsoft Intune.
-- **🔐 Identity & Access Management (IAM):** Active Directory, Azure VMs, SSO/MFA governance, and investigating credential anomalies or account lockouts.
-- **🚨 Incident Response & Triage:** Skilled in ITIL 4 Incident Management processes, high-volume ticket prioritization, and authoring formal Knowledge Base documentation.
-- **🐍 Security Automation:** Building quick script tools in Python and querying database log tables using SQL.
+* **🪵 Log Analysis & Telemetry:** Analyzing enterprise protocols (TCP/IP, DNS, DHCP) and triaging network/VPN connectivity anomalies.
+* **🛡️ Endpoint Security & Compliance:** Monitoring endpoint security agent health, auditing anti-malware compliance, and provisioning secure baselines using Microsoft Intune.
+* **🔐 Identity & Access Management (IAM):** Active Directory, Azure VMs, SSO/MFA governance, and investigating credential anomalies or account lockouts.
+* **🚨 Incident Response & Triage:** Skilled in ITIL 4 Incident Management processes, high-volume ticket prioritization, and authoring formal Knowledge Base documentation.
+* **🐍 Security Automation:** Building quick script tools in Python and querying database log tables using SQL.
 
 ---
 
 ### 🛡️ Security Labs & Hands-on Projects
 
-#### 🧱 [Enterprise SIEM & Detection Engineering Lab](https://github.com/CJGS-SEC)
+#### 🧱 Enterprise SIEM & Detection Engineering Lab
 * **What it is:** A blue-team sandbox environment deploying an open-source SIEM (Wazuh/Elastic) to monitor target enterprise endpoints.
 * **Skills demonstrated:** Ingesting security logs, writing custom detection rule use cases for SSH brute-forcing and privilege escalation, and mapping alerts to the **MITRE ATT&CK Framework**.
 
 #### 🖥️ [My SOC Analyst Portfolio & Write-ups](https://github.io)
 * **What it is:** My personal platform hosted on **GitHub Pages** featuring structured threat hunting walkthroughs, incident response playbooks, and detailed TryHackMe/HackTheBox room write-ups.
 
-#### 🐍 [Security Automation Tooling Scripts](https://github.com/CJGS-SEC)
+#### 🐍 Security Automation Tooling Scripts
 * **What it is:** Modular Python scripts built to query OSINT threat feeds, automate malicious IP/domain lookups via APIs (VirusTotal), and parse system logs for Indicators of Compromise (IoCs).
-
----
-
-### 📊 Real-Time GitHub Analytics
-<p align="center">
-  <img src="https://vercel.app" alt="Chandan's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
