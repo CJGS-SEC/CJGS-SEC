@@ -1,51 +1,49 @@
-# CHANDAN JEDIDIAH GOPAL SWAMY
-### 🌐 Cybersecurity Professional | Aspiring SOC Analyst | ITIL® 4 Certified
+# Chandan Jedidiah Gopal Swamy
+### Service Desk Engineer | Transitioning SOC Analyst | ITIL® 4 Certified
 
-**📧 Email:** chandanjedidiah@gmail.com | **💻 Portfolio:** [cjgs-sec.github.io](https://github.io) | **📍 Location:** Sunderland, UK
-
----
-
-### 👨‍💻 About Me
-I am a security-focused IT professional with **over 4 years of enterprise infrastructure experience** supporting 500+ global users across complex Windows, macOS, and hybrid cloud networks. 
-
-Having managed Active Directory/Azure identity hygiene, enforced endpoint EDR/Antivirus compliance agents, and diagnosed remote VPN telemetry under strict SLAs (98%+ compliance), I am fully equipped to pivot directly into a Security Operations Center (SOC) to handle active log analysis, alert triage, and incident response frameworks.
+**Email:** chandanjedidiah@gmail.com | **Portfolio:** [cjgs-sec.github.io](https://github.io) | **Location:** Sunderland, UK
 
 ---
 
-### 🔬 Core SOC Competencies & Frameworks
+### About Me
 
-* **🪵 Log Analysis & Telemetry:** Analyzing enterprise protocols (TCP/IP, DNS, DHCP) and triaging network/VPN connectivity anomalies.
-* **🛡️ Endpoint Security & Compliance:** Monitoring endpoint security agent health, auditing anti-malware compliance, and provisioning secure baselines using Microsoft Intune.
-* **🔐 Identity & Access Management (IAM):** Active Directory, Azure VMs, SSO/MFA governance, and investigating credential anomalies or account lockouts.
-* **🚨 Incident Response & Triage:** Skilled in ITIL 4 Incident Management processes, high-volume ticket prioritization, and authoring formal Knowledge Base documentation.
-* **🐍 Security Automation:** Building quick script tools in Python and querying database log tables using SQL.
+I’m an IT infrastructure professional with over 4 years of hands-on experience keeping enterprise networks stable, secure, and running smoothly. Day-to-day, I support 500+ global users across Windows, Mac, and hybrid cloud environments. 
 
----
+My background is heavily rooted in the core systems that security operations rely on. I spend my time managing Active Directory environments, auditing endpoint compliance agents, enforcing MFA protocols, and troubleshooting network/VPN connectivity issues under tight SLA targets. 
 
-### 🛡️ Security Labs & Hands-on Projects
-
-#### 🧱 Enterprise SIEM & Detection Engineering Lab
-* **What it is:** A blue-team sandbox environment deploying an open-source SIEM (Wazuh/Elastic) to monitor target enterprise endpoints.
-* **Skills demonstrated:** Ingesting security logs, writing custom detection rule use cases for SSH brute-forcing and privilege escalation, and mapping alerts to the **MITRE ATT&CK Framework**.
-
-#### 🖥️ [My SOC Analyst Portfolio & Write-ups](https://github.io)
-* **What it is:** My personal platform hosted on **GitHub Pages** featuring structured threat hunting walkthroughs, incident response playbooks, and detailed TryHackMe/HackTheBox room write-ups.
-
-#### 🐍 Security Automation Tooling Scripts
-* **What it is:** Modular Python scripts built to query OSINT threat feeds, automate malicious IP/domain lookups via APIs (VirusTotal), and parse system logs for Indicators of Compromise (IoCs).
+Right now, I am actively preparing for the CompTIA Security+ exam and focusing on building defensive security labs. I’m looking to bring my practical, real-world troubleshooting background into a dedicated Security Operations Center (SOC) role.
 
 ---
 
-### 🧰 Technical Ecosystem & Tooling
+### Core Focus Areas
 
-```mipsasm
-===================================================================================
-[+] Security & Compliance : Antivirus/EDR Compliance Tracking, MFA/SSO Governance, VPNs
-[+] Infrastructure/Cloud  : Active Directory, Azure VMs, AWS, Microsoft Intune
-[+] Service Management    : ITIL 4 Framework, Jira, ServiceNow, Confluence
-[+] Scripting & Querying  : Python, SQL, Bash, HTML/CSS
-===================================================================================
-```
+- **Log Triage & Networks:** Investigating authentication failures, parsing DNS/DHCP anomalies, and understanding how corporate data moves across a network.
+- **Identity & Access Management (IAM):** Handling account lifecycle security, user groups, and troubleshooting credential anomalies using Active Directory and Microsoft Entra ID.
+- **Endpoint Protection:** Tracking down broken endpoint security agents and deploying secure baseline policies via Microsoft Intune.
+- **Incident Handling:** Working within structured ITIL frameworks to isolate system threats, prioritize ticket queues, and document standard operating procedures.
+- **Scripting & Queries:** Writing basic Python tools to automate daily administrative tasks and using SQL to query log databases.
 
 ---
-<p align="center">📬 <strong>Let's Connect & Talk Blue Teaming:</strong> <a href="mailto:chandanjedidiah@gmail.com">chandanjedidiah@gmail.com</a></p>
+
+### What I'm Building (Labs & Projects)
+
+#### SIEM & Detection Engineering Environment
+I set up an isolated sandbox network utilizing Wazuh to capture and monitor endpoint log telemetry. I use this lab to safely execute brute-force attacks and privilege escalations, analyze the raw log outputs, and write custom detection rules mapped to the MITRE ATT&CK framework.
+
+#### [Threat Hunting Write-ups & Documentation](https://github.io)
+My personal documentation hub hosted via GitHub Pages. Here, I break down my step-by-step methodologies for defensive security labs, blue-team challenges, and training rooms from TryHackMe and HackTheBox.
+
+#### Python Security Automation
+A collection of simple, modular Python scripts I wrote to speed up incident investigations. These include tools that parse local system logs for indicators of compromise (IoCs) and query public OSINT threat intelligence feeds like VirusTotal via API.
+
+---
+
+### Tools I Work With
+
+- **Security & Compliance:** EDR Agent Monitoring, MFA/SSO Administration, Secure VPN Configuration
+- **Infrastructure & Cloud:** Active Directory, Microsoft Entra ID, Microsoft Intune, VMware vSphere, Azure/AWS VMs
+- **Service Management:** Jira, ServiceNow, Confluence, ITIL Frameworks
+- **Scripting:** Python, Bash, SQL
+
+---
+<p align="center"><strong>Always open to a conversation about blue teaming or tech support challenges:</strong> <a href="mailto:chandanjedidiah@gmail.com">chandanjedidiah@gmail.com</a></p>
