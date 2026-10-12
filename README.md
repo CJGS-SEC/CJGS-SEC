@@ -46,4 +46,4 @@ Right now, I am actively preparing for my CompTIA Security+ certification and fo
 - **Scripting:** Python, Bash, SQL
 
 ---
-<p align="center">📬 <strong>Always open to a conversation about blue teaming or tech support challenges:</strong> <a href="mailto:chandanjedidiah@gmail.com">chandanjedidiah@gmail.com</a></p>
+<p align="center"><strong>Always open to a conversation about blue teaming or tech support challenges:</strong> <a href="mailto:chandanjedidiah@gmail.com">chandanjedidiah@gmail.com</a></p>
