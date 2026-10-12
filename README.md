@@ -1,5 +1,5 @@
 # Chandan Jedidiah Gopal Swamy
-### Service Desk Engineer | Transitioning SOC Analyst | ITIL® 4 Certified
+### Service Desk Engineer | Transitioning SOC Analyst | ITIL® 4 Certified | CompTIA Security+ (In Progress)
 
 **Email:** chandanjedidiah@gmail.com | **Portfolio:** [cjgs-sec.github.io](https://github.io) | **Location:** Sunderland, UK
 
@@ -11,7 +11,7 @@ I’m an IT infrastructure professional with over 4 years of hands-on experience
 
 My background is heavily rooted in the core systems that security operations rely on. I spend my time managing Active Directory environments, auditing endpoint compliance agents, enforcing MFA protocols, and troubleshooting network/VPN connectivity issues under tight SLA targets. 
 
-Right now, I am actively preparing for the CompTIA Security+ exam and focusing on building defensive security labs. I’m looking to bring my practical, real-world troubleshooting background into a dedicated Security Operations Center (SOC) role.
+Right now, I am actively preparing for my CompTIA Security+ certification and focusing on building defensive security labs. I’m looking to bring my practical, real-world troubleshooting background into a dedicated Security Operations Center (SOC) role.
 
 ---
 
@@ -27,14 +27,14 @@ Right now, I am actively preparing for the CompTIA Security+ exam and focusing o
 
 ### What I'm Building (Labs & Projects)
 
-#### SIEM & Detection Engineering Environment
-I set up an isolated sandbox network utilizing Wazuh to capture and monitor endpoint log telemetry. I use this lab to safely execute brute-force attacks and privilege escalations, analyze the raw log outputs, and write custom detection rules mapped to the MITRE ATT&CK framework.
+*   **SIEM & Detection Engineering Environment**
+    I set up an isolated sandbox network utilizing Wazuh to capture and monitor endpoint log telemetry. I use this lab to safely execute brute-force attacks and privilege escalations, analyze the raw log outputs, and write custom detection rules mapped to the MITRE ATT&CK framework.
 
-#### [Threat Hunting Write-ups & Documentation](https://github.io)
-My personal documentation hub hosted via GitHub Pages. Here, I break down my step-by-step methodologies for defensive security labs, blue-team challenges, and training rooms from TryHackMe and HackTheBox.
+*   **[Threat Hunting Write-ups & Documentation](https://github.io)**
+    My personal documentation hub hosted via GitHub Pages. Here, I break down my step-by-step methodologies for defensive security labs, blue-team challenges, and training rooms from TryHackMe and HackTheBox.
 
-#### Python Security Automation
-A collection of simple, modular Python scripts I wrote to speed up incident investigations. These include tools that parse local system logs for indicators of compromise (IoCs) and query public OSINT threat intelligence feeds like VirusTotal via API.
+*   **Python Security Automation**
+    A collection of simple, modular Python scripts I wrote to speed up incident investigations. These include tools that parse local system logs for indicators of compromise (IoCs) and query public OSINT threat intelligence feeds like VirusTotal via API.
 
 ---
 
@@ -46,4 +46,4 @@ A collection of simple, modular Python scripts I wrote to speed up incident inve
 - **Scripting:** Python, Bash, SQL
 
 ---
-<p align="center"><strong>Always open to a conversation about blue teaming or tech support challenges:</strong> <a href="mailto:chandanjedidiah@gmail.com">chandanjedidiah@gmail.com</a></p>
+<p align="center">📬 <strong>Always open to a conversation about blue teaming or tech support challenges:</strong> <a href="mailto:chandanjedidiah@gmail.com">chandanjedidiah@gmail.com</a></p>
